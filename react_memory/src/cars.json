@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy",
+        "image": "./images/chevy.png"
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "image": "./images/Audi.png"
+    },
+    {
+        "id": 3,
+        "name": "Dodge",
+        "image": "./images/Dodge.png"
+    },
+    {
+        "id": 4,
+        "name": "ford",
+        "image": "./images/ford.png"
+    },
+    {
+        "id": 5,
+        "name": "Jag",
+        "image": "./images/Jag.png"
+    },
+    {
+        "id": 6,
+        "name": "jeep",
+        "image": "./images/jeep.png"
+    },
+    {
+        "id": 7,
+        "name": "KIA",
+        "image": "./images/KIA.png"
+    },
+    {
+        "id": 8,
+        "name": "LandRover",
+        "image": "./images/LandRover.png"
+    },
+    {
+        "id": 9,
+        "name": "mazda",
+        "image": "./images/mazda.png"
+    },
+    {
+        "id": 10,
+        "name": "mer",
+        "image": "./images/mer.png"
+    },
+    {
+        "id": 11,
+        "name": "Nissan",
+        "image": "./images/Nissan.png"
+    },
+    {
+        "id": 12,
+        "name": "S",
+        "image": "./images/s.png"
+    }
+
+]
