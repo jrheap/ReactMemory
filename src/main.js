@@ -166,11 +166,3 @@ class App extends Component {
 export default App;
 
 
-
-//.map = function(cb){
-  //var array = []; 
-//for(var i = 0; i < cars.length; i++){
-// array.push(cb(cars[i]))
-//}
-//return array
-//} 
